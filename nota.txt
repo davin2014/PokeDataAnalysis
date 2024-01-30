@@ -1,0 +1,29 @@
+Análisis de datos de Pokémon
+
+**Número total de Pokémon:** 5
+
+**Pokémon con mayor peso:**
+
+| Nombre | Peso | Altura | Tipo | Región |
+|---|---|---|---|---|
+| Venusaur | 1000 | NaN | grass | kanto |
+
+**Pokémon con menor peso:**
+
+| Nombre | Peso | Altura | Tipo | Región |
+|---|---|---|---|---|
+| Bulbasaur | 69 | 7.0 | grass | kanto |
+
+**Conteo de Pokémon por tipo:**
+
+| Tipo | Conteo |
+|---|---|
+| grass | 3 |
+| fire | 2 |
+
+
+Espero que este análisis sea útil.
+
+Ten en cuenta que este análisis se basa en una pequeña muestra de datos de Pokémon. Es posible que los resultados no sean representativos de todos los Pokémon.
+
+Si tienes alguna otra pregunta, no dudes en hacérmela.
